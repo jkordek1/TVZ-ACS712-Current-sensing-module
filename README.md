@@ -1,9 +1,9 @@
 # TVZ ACS712 Current sensing module
 
-[![Version](https://img.shields.io/github/v/release/jkordek1/myDAQ-Expansion-Board)](https://github.com/jkordek1/myDAQ-Expansion-Board/releases/tag/Initial)
+[![Version](https://img.shields.io/github/v/release/jkordek1/TVZ-ACS712-Current-sensing-module)](https://github.com/jkordek1/TVZ-ACS712-Current-sensing-module/releases/tag/Initial)
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![GitHub Issues](https://img.shields.io/github/issues/jkordek1/myDAQ-Expansion-Board)](https://github.com/jkordek1/myDAQ-Expansion-Board/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/jkordek1/myDAQ-Expansion-Board)](https://github.com/jkordek1/myDAQ-Expansion-Board/pulls)
+[![GitHub Issues](https://img.shields.io/github/issues/jkordek1/TVZ-ACS712-Current-sensing-module)](https://github.com/jkordek1/TVZ-ACS712-Current-sensing-module/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/jkordek1/TVZ-ACS712-Current-sensing-module)](https://github.com/jkordek1/TVZ-ACS712-Current-sensing-module/pulls)
 
  PCB module for ACS712, fully Integrated, Hall Effect-Based Linear Current Sensor with 2.1 kVRMS Voltage Isolation and a Low-Resistance Current Conductor.
  
