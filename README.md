@@ -5,8 +5,7 @@
 [![GitHub Issues](https://img.shields.io/github/issues/jkordek1/myDAQ-Expansion-Board)](https://github.com/jkordek1/myDAQ-Expansion-Board/issues)
 [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/jkordek1/myDAQ-Expansion-Board)](https://github.com/jkordek1/myDAQ-Expansion-Board/pulls)
 
- Expansion board for NI myDAQ Student Data Acquisition Device, developed in 2022 for students studying at Zagreb university of applied sciences.
- It enables quick and easy .VI development without the need of connecting different modules via breadboard and jumpers.
+ PCB module for ACS712, fully Integrated, Hall Effect-Based Linear Current Sensor with 2.1 kVRMS Voltage Isolation and a Low-Resistance Current Conductor.
  
  ## Features
  - 4mm banana plugs for sensors IP+ and IP- pins
