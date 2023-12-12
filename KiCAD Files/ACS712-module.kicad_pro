@@ -446,7 +446,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "ACS712-module.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
