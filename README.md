@@ -24,10 +24,9 @@
     ├── ...
     ├── Images                  # Images of the project
     ├── KiCADFiles              # Main folder
-    │   ├── 3d models           # 3d models of components
+    │   ├── 3D models           # 3d models of components
     │   ├── Datasheet           # Datasheet collection
-    │   ├── Graphics            # Custom graphics for PCB
-    │   ├── gerber              # gerber output folder
+    │   ├── production          # gerber output folder
     │   ├── myDAQExpansionBoard # Main folder for KiCAD files
     │   └── Schematic.pdf       # Project schematic
     └── ...
