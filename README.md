@@ -16,7 +16,7 @@
 
 ## Images
 <p align="center">
-  <img width="800" src="">
+  <img width="800" src="https://raw.githubusercontent.com/jkordek1/TVZ-ACS712-Current-sensing-module/main/Images/pcb_top.png">
 </p>
 
 ## Project folder structure
